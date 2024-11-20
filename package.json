@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "particles.js": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "serve": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+    
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  },
+  "name": "vip_magzine",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
